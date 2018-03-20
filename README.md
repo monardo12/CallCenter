@@ -14,6 +14,10 @@ The program works around a thread pool of 10 concurrent employees attending call
 
 If at some point there isn't any available employee, the call is left in a queue waiting to be attended.
 
+## Class Diagram
+
+![classdiagram](./callcenter.png)
+
 ### Prerequisites
 
 In order to run this program you will need to have [Maven](https://maven.apache.org/) installed in your local machine.
