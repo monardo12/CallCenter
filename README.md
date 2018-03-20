@@ -39,7 +39,7 @@ By running mvn clean install you'll be already running the tests.
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [JUnit](https://junit.org/junit5/) - Testing Framework
 * [Apache Commons](https://commons.apache.org/proper/commons-lang/) - Miscelanea
-* [SLF4J])(https://www.slf4j.org/) - Logging
+* [SLF4J](https://www.slf4j.org/) - Logging
 
 ## Author
 
